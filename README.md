@@ -1,4 +1,4 @@
-# proj-entrys
+# vue-movie
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,3 +27,22 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Preview
+<h3 align="center">VUE MOVIE SEARCH</h3>
+<p align="center">You can find your favorite movies</p>
+
+<img src="src/assets/banner.png" width="100%" alt="">
+
+### Languages and Tools
+
+- Vue Js
+- Vue router
+- Tailwindcss
+- Pinia
+- Axios
+- OMDB API
+- Google Font
+- Iconly
+- Vite
+- Visual Studio Code
